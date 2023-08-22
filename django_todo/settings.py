@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-(ng^k*pg7x6)60p2xb)c!v=berkcxge!%h17sf6g5tq!l%48)i
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-slbabin-hello-django-cx7c5ai9hz.us2.codeanyapp.com', 'https://slbabin-todo-app-fd60d60ad5f8.herokuapp.com']
+ALLOWED_HOSTS = ['8000-slbabin-hello-django-cx7c5ai9hz.us2.codeanyapp.com', 'slbabin-todo-app-fd60d60ad5f8.herokuapp.com']
 
 
 # Application definition
